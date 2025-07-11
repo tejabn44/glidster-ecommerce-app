@@ -17,7 +17,7 @@ const About = () => {
         <p>Glidster was born out of a passion for innovation and a desire to bring meaningful products to customers across the country. From day one, our goal has been to make shopping more accessible, reliable, and enjoyable for everyone. We blend technology with thoughtful design to ensure a smooth and satisfying experience — from browsing to checkout.</p>
         <p>Since our inception, we've worked tirelessly to curate a diverse selection of products that cater to the evolving needs of our customers. Whether it's everyday essentials or something unique, Glidster is committed to quality, fast delivery, and secure payments. With trusted gateways like Razorpay and Stripe, we’re building a future where online shopping is effortless and rewarding.</p>
         <b className='text-gray-800'>Our Mission</b>
-        <p>Our mission at Forever is to empower customers with choice, convenience, and quality. Quidem labore molestias itaque maiores perspiciatis! Quis asperiores accusantium error animi. Cumque sint sapiente sunt voluptatum obcaecati quod quibusdam perspiciatis similique doloremque.</p>
+        <p>Our mission at Glidster is to empower customers with choice, convenience, and quality. We’re dedicated to simplifying the online shopping experience while delivering trusted products and reliable service. Through continuous innovation and a customer-first approach, we strive to make every purchase seamless, satisfying, and secure.</p>
       </div>
     </div>
 
