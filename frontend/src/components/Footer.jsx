@@ -9,7 +9,7 @@ const Footer = () => {
             <div>
                 <img src={assets.logo} className='mb-5 w-32' alt="" />
                 <p className='w-full md:w-2/3 text-gray-600'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti autem accusantium eum quia, voluptatem labore pariatur consequatur. Eos temporibus autem repudiandae voluptatem sequi ab sit aliquid dignissimos odit cum assumenda maxime quasi laborum  sed asperiores molestiae veritatis.
+                    Glidster is your one-stop destination for quality products with fast delivery, secure payments, and reliable service. We offer a smooth shopping experience with multiple payment options including Stripe and Razorpay. Whether you're browsing for daily essentials or unique finds, we've got you covered.
                 </p>
             </div>
 
@@ -26,8 +26,8 @@ const Footer = () => {
             <div>
                 <p className='text-xl font-meduim mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
-                    <li>+91-983-343-8564</li>
-                    <li>contact@Glidster.com</li>
+                    <li>+91-7020134553</li>
+                    <li>glidster77@gmail.com</li>
                 </ul>
             </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2025@ Glidster.com - All Rights Reserved</p>
+            <p className='py-5 text-sm text-center'>Copyright 2024@ Glidster.com - All Rights Reserved</p>
         </div>
 
     </div>

@@ -14,8 +14,8 @@ const About = () => {
     <div className='my-10 flex flex-col md:flex-row gap-16' >
       <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
       <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-        <p>Forever was born out of a passion for innovation and a desire to Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum pariatur quas temporibus sit optio deleniti dolorem debitis repellendus?  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia cum nulla suscipit quam nesciunt facilis autem dolorum, iusto ex tenetur.</p>
-        <p>Since our inception, we've worked tirelessly to curate a diverse selection of products that cater to the evolving needs of our customers. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia eaque voluptatem, quod rem tempora expedita dignissimos facilis temporibus nesciunt eligendi reiciendis quaerat iste quidem. Illo corrupti modi voluptatibus delectus pariatur.</p>
+        <p>Glidster was born out of a passion for innovation and a desire to bring meaningful products to customers across the country. From day one, our goal has been to make shopping more accessible, reliable, and enjoyable for everyone. We blend technology with thoughtful design to ensure a smooth and satisfying experience — from browsing to checkout.</p>
+        <p>Since our inception, we've worked tirelessly to curate a diverse selection of products that cater to the evolving needs of our customers. Whether it's everyday essentials or something unique, Glidster is committed to quality, fast delivery, and secure payments. With trusted gateways like Razorpay and Stripe, we’re building a future where online shopping is effortless and rewarding.</p>
         <b className='text-gray-800'>Our Mission</b>
         <p>Our mission at Forever is to empower customers with choice, convenience, and quality. Quidem labore molestias itaque maiores perspiciatis! Quis asperiores accusantium error animi. Cumque sint sapiente sunt voluptatum obcaecati quod quibusdam perspiciatis similique doloremque.</p>
       </div>
