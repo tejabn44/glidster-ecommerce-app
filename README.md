@@ -4,9 +4,6 @@ A Full-Stack eCommerce Web Application built using the MERN stack (MongoDB, Expr
 ## 🌐 Live Site  
 🔗 [https://glidster.vercel.app](https://glidster.vercel.app)
 
-## 📸 Demo  
-▶️ [Watch Demo Video](https://your-video-link.com) <!-- Replace if hosted -->
-
 ## ✨ Key Features  
 - Product browsing with filtering and sorting  
 - Cart with variant selection (e.g., size)  
