@@ -26,7 +26,7 @@ const Footer = () => {
             <div>
                 <p className='text-xl font-meduim mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
-                    <li>+91-7020134553</li>
+                    <li>+91-9801234567</li>
                     <li>glidster77@gmail.com</li>
                 </ul>
             </div>
@@ -35,7 +35,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ Glidster.com - All Rights Reserved</p>
+            <p className='py-5 text-sm text-center'>Copyright 2025@ Glidster.com - All Rights Reserved</p>
         </div>
 
     </div>
